@@ -9,6 +9,11 @@ package Main;
  *
  * @author Asus
  */
+
+import View.FirstScreen;
+
 public class Main {
-    
+    public static void main(String[] args){
+        new FirstScreen();
+    }
 }
